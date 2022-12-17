@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alesya Alekseeva</h1>
 <h3 align="center">A passionate QA Automation Engineer</h3>
 
-- 🔭 I’m currently working on **Kompot**
-
-- 🌱 I’m currently learning **Python**
-
 - 📫 How to reach me **aleks.alesya09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
